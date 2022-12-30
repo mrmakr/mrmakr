@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mrmakr
-- 👀 I’m interested in ux, design, and frontend-dev
+ # 👋  👀 
+ ### Hi,
+I’m interested in ux, design, and
+[frontend-dev](//supercoolnamereally.se) 
+some unneeded stuff [stuff](https://gist.github.com/mrmakr/4888c687c5315aa0fe641e9a0849855d)
 
-
-<!---
-mrmakr/mrmakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ /🆒
